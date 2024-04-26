@@ -31,4 +31,4 @@ jobs:
         with:
           project: "gerardofruc-practica4-f-48"
           entrypoint: "main.ts"
-          root: "./practica-4"
+          root: "./practica-4/"
